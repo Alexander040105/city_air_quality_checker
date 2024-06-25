@@ -3,5 +3,4 @@ pandas
 matplotlib
 requests
 dotenv
-base64
-io
+
